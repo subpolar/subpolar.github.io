@@ -1,0 +1,4 @@
+baseURL = 'https://subpolar.github.io/'
+languageCode = 'en-us'
+title = 'subpolar.github.io'
+theme = 'archie'
